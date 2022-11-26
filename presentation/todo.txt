@@ -1,0 +1,21 @@
+8.11
+- Diskusia vrámci členov tímu
+- Rozdelenie jednotlivých úloh
+- Naštudovať potrebných prostriedkov
+- Pokračovanie podľa odporúčania mentora"
+
+
+- Čiastočné rozdelenie úloh:
+  - Vasyl Dumnych: Zodpovedný za mobilnú aplikáciu. 
+Začiatok vývoja mobilnej aplikácie. Zistenie možných riešení, na rozoznanie Bluetooth zariadení v okolí. Návrh aplikácie. 
+  - Hajnalka Haneszová: Hardvérová časť projektu. Výber jednotlivých softvérových aplikácií na naprogramovanie a nakonfigurovanie Bluetooth dosky. 
+- Prvotný výber prostriedkov: BlueNRG-2 (HW), STSW-BLUENRG1-DK (SW), STSW-WISE-STUDIO (SW) 
+
+- Stretnutie pondelok - odovzdanie hardvéru.
+ok - Exemple code - skúška správneho fungovania čipu a komunikácia medzi čipom a počítačom.
+! Pridanie do mobilnej aplikácie Hi-charts a jej otestovanie. 
+! Vymyslieť príbeh do prezentácií.
+ok Určenie štruktúry projektu na GIT (mentor z firmy) a nahratie zdrojových kódov."
+
+
+
